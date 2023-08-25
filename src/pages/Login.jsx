@@ -26,8 +26,8 @@ export default function Login() {
 
 
     dispatch(setUser({email,password}))
-    setEmail("");
-    setPassword("");
+    setEmail(" ");
+    setPassword(" ");
     navigate("/")
   };
 
