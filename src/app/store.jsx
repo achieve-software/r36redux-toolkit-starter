@@ -11,7 +11,7 @@ const store = configureStore ({
         news:newsReducer,
     },
 
-    devTools:process.env.NODE_ENV !== "development"
+    // devTools:process.env.NODE_ENV !== "development"
     devTools:process.env.NODE_ENV !== "production"
 })
 
