@@ -13,7 +13,7 @@ const initialState = {
   
   
   async (thunkAPI, {rejectWithValue}) => {
-    const API_KEY = "ae87710f071a47438c7d9e8cd3b65871";
+    const API_KEY = "c5938be4ecfe4e68b66e32fa0802f7b9";
     const url = `https://newsapi.org/v2/top-headlines?country=us&apiKey=${API_KEY}`;  
       try {
       const { data } = await axios(url);
