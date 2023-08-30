@@ -3,8 +3,7 @@
 ## Project-gif
 ![JavaScript-project](https://github.com/achieve-software/achieve-software/blob/main/img/36redux.gif?raw=true)
 ## Project-link
-https://glittery-kheer-30c557.netlify.app/login
-
+https://glittery-kheer-30c557.netlify.app/
 ## `Kurulum`
 
 ```
